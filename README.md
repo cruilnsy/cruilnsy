@@ -16,4 +16,4 @@ never submits for you.
 **EduAgent** · coming soon
 
 ## Get in touch
-[LinkedIn](linkedin.com/in/rui-c-076041105)
+[LinkedIn](https://www.linkedin.com/in/rui-c-076041105/)
