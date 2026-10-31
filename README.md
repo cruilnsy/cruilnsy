@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Betty 👋
 
-<!--
-**cruilnsy/cruilnsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend & Full-Stack Engineer with 8 years of experience building
+[product areas, e.g. streaming and ticketing] web products. I work mostly in
+React, TypeScript and Node.js, and I've been building applied AI features.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Offer Pilot](https://github.com/cruilnsy/offer-pilot)** · [Live demo](https://offer-pilot-seven.vercel.app)
+A semi-automatic job search tool: fetches postings from your own sources, matches
+them against boards you define, and autofills applications in real Chrome. It
+never submits for you.
+`Next.js` `TypeScript` `SQLite` `Playwright`
+
+**RAG_books** · coming soon
+**EduAgent** · coming soon
+
+## Get in touch
+[LinkedIn](linkedin.com/in/rui-c-076041105)
